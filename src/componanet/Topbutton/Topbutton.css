@@ -1,0 +1,49 @@
+
+
+.back-to-top  {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 40px;
+  background: var(--main-color);
+  border-radius: 50px 50px 0 0;
+  color:white;
+  cursor: pointer;
+  opacity: 1;
+  transition: var(--main-transition);
+  animation: opacity 1s;
+  z-index: 1000;
+}
+
+.back-to-top .icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 40px;
+  background: var(--main-color);
+  border-radius: 50px 50px 0 0;
+  color:white;
+  cursor: pointer;
+  opacity: 1;
+  transition: var(--main-transition);
+  animation: opacity 1s;
+  z-index: 1000;
+}
+
+.back-to-top .icon_buttom {
+  border-radius: 0 0 50px 50px ;
+}
+
+@keyframes opacity{
+  0%{opacity: 0;}
+  100%{opacity: 1;}
+}
+
+.back-to-top .icon:hover {
+  background-color: black;
+  color:white;
+
+}
+
+
+/* Just some color boxes to make the page longer */

@@ -1,0 +1,78 @@
+{
+
+"comment":"               Header                  " ,
+  "logo":"Elzero",
+  "Articles":"Articles",
+  "Gallery":"falwor gallery",
+  "Features":"Features",
+  "Other Links":"Other Links",
+
+
+
+
+  "l_comment":"                        landing              ",
+  "l_title":"Welcome, To Elzero World",
+  "l_pr":"Here Iam gonna share everything about my life. Books Iam reading, Games Iam Playing, Stories and Events",
+
+  "ar_comment":"                        ARTICLES              ",
+  "articles":"ARTICLES",
+  "ar_title":"Test Title",
+  "ar_pr":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit",
+  "ar_read":"Read More",
+
+
+  "f_comment":"                        FEATURES              ",
+  "features":"FEATURES",
+  "f_title_1":"Quality",
+  "f_title_2":"Time",
+  "f_title_3":"Passion",
+  "f_pr":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit harum hic veniam eligendi minima",
+  "f_more":"more",
+
+  "t_comment":"                        TESTIMONIALS              ",
+  "testimonials":"TESTIMONIALS",
+  "t_name":"Mohamed Farag",
+  "t_skile":"Full Stack Developer",
+  "t_pr":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit harum hic veniam eligendi minima",
+
+  "tm_comment":"                        TEAM MEMBERS              ",
+  "team_members":"TEAM MEMBERS",
+  "tm_name":"Mohamed Farag",
+  "tm_des":"Simple Short Description",
+  
+
+  "s_comment":"                        SERVICES             ",
+  "services":"SERVICES",
+  "s_one":"Security",
+  "s_two":"Fixing Issues",
+  "s_three":"Location",
+  "s_four":"Coding",
+  "s_five":"Security",
+  "s_sex":"Marketing",
+  "details":"details",
+  
+
+  "os_comment":"                        OUR SKILLS             ",
+  "our_skills":"OUR SKILLS ",
+
+  "hw_comment":"                        HOW IT WORKS ?             ",
+  "hw":"HOW IT WORKS ? ",
+  "hw_one":"Business Analysis",
+  "hw_two":"Architecture",
+  "hw_three":"Developement",
+
+  "la_comment":"                        LATEST EVENTS            ",
+  "latest_events":"LATEST EVENTS ? ",
+  "days":"days",
+  "Hours":"Hours",
+  "Minutes":"Minutes",
+  "Seconds":"Seconds",
+  "tme":"Tech Masters Event 2022",
+  "la_pr":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et vero tenetur doloremque iusto ut adipisci quam ratione aliquam excepturi nulla in harum, veritatis porr"
+
+
+
+
+
+
+}
